@@ -7,8 +7,8 @@ A comprehensive C++ application utilizing **Graph Data Structures** to model, an
 ## 🎓 Academic Context
 * **Institution:** Department of Computer Engineering (CE), UET
 * **Semester:** 3rd Semester
-* **Course Instructor:** Dr. Hina
-* **Developed By:** * Mujtaba Kamal Pasha
+* **Course Instructor:** Pro. Mujtaba Kamal Pasha
+* **Developed By:** * Muhammad Afnan Abbas
   * Naveera Aamir
 
 ---
